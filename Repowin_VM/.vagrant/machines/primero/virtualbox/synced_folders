@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/compartido":{"owner":"vagrant","group":"vagrant","guestpath":"/home/vagrant/compartido","hostpath":"D:/TP_AySO_Integral_Repowin_/Repowin_VM/compartido_Host1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/TP_AySO_Integral_Repowin_/Repowin_VM","disabled":false,"__vagrantfile":true}}}
